@@ -1,0 +1,7 @@
+{
+  "name": "PhysioTrack ",
+  "description": "A comprehensive physiotherapy management system featuring role-based dashboards, appointment scheduling, and personalized exercise programs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
